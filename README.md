@@ -100,7 +100,7 @@ If you encounter issues:
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/gesture-controlled-media-player/issues).
+Contributions, issues, and feature requests are welcome!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
