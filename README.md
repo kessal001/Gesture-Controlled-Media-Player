@@ -59,8 +59,6 @@ Here's a visual representation of the hand landmarks:
    - Bring your thumb and index finger close together (distance <= 20 pixels)
    - Keep your middle finger extended away from your thumb (distance >= 80 pixels)
 
-   ![Correct Gesture](https://api.placeholder.com/400x300?text=Correct+Gesture+Demonstration)
-
 4. The script will simulate pressing the spacebar, which typically toggles play/pause in most media players.
 
 5. To exit the program, press 'q' while the webcam window is active.
