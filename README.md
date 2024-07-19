@@ -2,7 +2,7 @@
 
 Control your media playback with hand gestures! This project uses computer vision and hand gesture recognition to play/pause media on your computer, all without touching your keyboard.
 
-![Hand Gesture Control Demo](https://api.placeholder.com/800x400?text=Hand+Gesture+Control+Demo)
+
 
 ## Features
 
@@ -23,7 +23,7 @@ Control your media playback with hand gestures! This project uses computer visio
 
 Here's a visual representation of the hand landmarks:
 
-![Hand Landmarks](https://api.placeholder.com/600x400?text=Hand+Landmarks+Diagram)
+![Hand Landmarks](handGesture.png)
 
 ## Requirements
 
@@ -65,9 +65,6 @@ Here's a visual representation of the hand landmarks:
 
 5. To exit the program, press 'q' while the webcam window is active.
 
-### Video Demonstration
-
-[Click here to watch a video demonstration](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Customization
 
