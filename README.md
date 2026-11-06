@@ -37,8 +37,8 @@ Here's a visual representation of the hand landmarks:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/gesture-controlled-media-player.git
-   cd gesture-controlled-media-player
+   git clone https://github.com/kessal001/Gesture-Controlled-Media-Player.git
+   cd Gesture-Controlled-Media-Player
    ```
 
 2. Install the required packages:
@@ -50,7 +50,7 @@ Here's a visual representation of the hand landmarks:
 
 1. Run the script:
    ```
-   python gesture_control.py
+   python main.py
    ```
 
 2. Position your hand in front of the webcam.
